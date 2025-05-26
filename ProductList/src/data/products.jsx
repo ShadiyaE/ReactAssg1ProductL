@@ -1,0 +1,51 @@
+export const products = [
+  {
+    id: 1,
+    name: 'Product Name 1',
+    price: 100,
+    category: 'Category A',
+    rating: 4.5,
+    image: 'https://m.media-amazon.com/images/I/61oHfeoH-lL._AC_SX679_.jpg',
+  },
+  {
+    id: 2,
+    name: 'Product Name 2',
+    price: 200,
+    category: 'Category B',
+    rating: 4.0,
+    image: 'https://m.media-amazon.com/images/I/51K9j4eogVL._AC_UL320_.jpg',
+  },
+  {
+    id: 3,
+    name: 'Product Name 3',
+    price: 150,
+    category: 'Category A',
+    rating: 3.5,
+    image: 'https://m.media-amazon.com/images/I/71J3kl8w2fL._AC_UL320_.jpg',
+  },
+  {
+    id: 4,
+    name: 'Product Name 4',
+    price: 1200,
+    category: 'Category B',
+    rating: 3.5,
+    image: 'https://m.media-amazon.com/images/I/51ocCzCIl3L._AC_UL320_.jpg',
+  },
+  {
+    id: 5,
+    name: 'Product Name 5',
+    price: 150,
+    category: 'Category B',
+    rating: 3.5,
+    image: 'https://m.media-amazon.com/images/I/71Yvr-Yu-NL._AC_UL320_.jpg',
+  },
+  {
+    id: 6,
+    name: 'Product Name 6',
+    price: 150,
+    category: 'Category B',
+    rating: 3.5,
+    image: 'https://m.media-amazon.com/images/I/81mB01LI7YL._AC_UL320_.jpg',
+  },
+  // Add more as needed
+];
